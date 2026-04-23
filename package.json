@@ -1,0 +1,8 @@
+{
+  "name": "gesture-divination-demo",
+  "private": true,
+  "description": "本地安装后可不依赖 jsdelivr 加载 MediaPipe",
+  "dependencies": {
+    "@mediapipe/tasks-vision": "0.10.14"
+  }
+}
